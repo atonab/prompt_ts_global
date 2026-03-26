@@ -1,0 +1,4 @@
+title: 🌍 Base de Datos Global
+arrange:
+  - README.md  # Esto asegura que tu mensaje de bienvenida sea lo primero que se lea
+  - ...        # Después acomodará alfabéticamente todas las carpetas que aporte la gente
