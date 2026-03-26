@@ -60,3 +60,19 @@ Actúa como un [ROL]. Necesito que me ayudes a [OBJETIVO].
 Contexto:
 [VARIABLE_1]
 ` ` `
+```
+
+> [!NOTE]
+> Asegúrate de juntar las comillas invertidas   ` en tu archivo final, aquí están separadas por formato
+
+---
+
+## ⚠️ Políticas de Aprobación
+
+- **Calidad**: Los prompts demasiado simples ("Escribe un post de Facebook") no serán aceptados. Buscamos estructuras robustas, con variables claras y roles definidos.
+
+- **Nombres de archivo**: Usa el formato seriado si estás añadiendo variantes a una serie existente (ej. 03-variante.md), o un nombre descriptivo en minúsculas y con guiones (ej. generador-componentes-react.md).
+
+- **Idioma**: Por el momento, la base de datos central prioriza prompts documentados en español, aunque el output del prompt en sí mismo puede generar código o texto en cualquier idioma.
+
+> ¡Gracias por ayudar a construir un ecosistema de IA más fuerte y organizado para todos!
